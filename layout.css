@@ -1,4 +1,4 @@
-/* Header */
+Header
 
 h1 {
   color: aqua;
@@ -9,6 +9,10 @@ h1 {
 header {
   background-color: black;
 }
+
+nav li {
+  color: white;
+} 
 
 /* footer */
 
